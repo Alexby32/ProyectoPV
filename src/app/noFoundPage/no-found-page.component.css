@@ -1,0 +1,25 @@
+.error-box {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.error-body {
+  text-align: center;
+}
+
+.error-body h1 {
+  font-size: 96px;
+  font-weight: 900;
+  text-shadow: 4px 4px 0 #ffffff, 6px 6px 0 #263238;
+  line-height: 96px;
+  margin-bottom: 20px;
+}
+
+.error-body p {
+  font-size: 24px;
+  color: #ffffff;
+}
